@@ -67,6 +67,7 @@ const AuthForm = ({ type }: { type: string }) => {
           password: data.password,
         });
         if (response) router.push("/");
+        // router.replace("/");
       }
     } catch (error) {
       console.log(error);
