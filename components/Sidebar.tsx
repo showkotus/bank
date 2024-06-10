@@ -14,7 +14,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
       <nav className="flex flex-col gap-4">
         <Link href="/" className="mb-12 flex cursor-pointer items-center gap-2">
           <Image
-            src="/icons/Ak-Teach-Bd-Logo.png"
+            src="/icons/AkTeachBdLogo.png"
             width={34}
             height={34}
             alt="logo"

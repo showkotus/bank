@@ -35,7 +35,7 @@ const MobileNavbar = ({ user }: MobileNavProps) => {
             className="flex cursor-pointer items-center gap-1 px-4"
           >
             <Image
-              src="/icons/Ak-Teach-Bd-Logo.png"
+              src="/icons/AkTeachBdLogo.png"
               width={34}
               height={34}
               alt="aktechbd logo"
